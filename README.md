@@ -1,4 +1,4 @@
-Hi, I'm Bernardina or Dina for short. I am a Full Stack Software Engineer based out of Southern California. I love the challenge of diverse projects that require creative thinking and challenge my skills. Currently, I am open to collaborating on open source projects and learning new programming languages.
+Hi, I'm Bernardina or Dina for short. I am a Full Stack Software Engineer based out of Southern California. I love the challenge of diverse projects that require creative thinking while testing my skills. Currently, while job hunting, I am open to collaborating on open source projects and learning new programming languages.
 
 ---
 
